@@ -1,4 +1,4 @@
-# Open Source Node JS Endpoint Detection & Response (EDR) Tool #
+# Open Source Node.js based Endpoint Detection & Response (EDR) security tool #
 
 Philosophy:
  1) EDR client should be as match simple as possible it should be one file! (ONE_FILE)
